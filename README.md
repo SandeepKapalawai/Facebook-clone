@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<a href="https://facebook-8158d.web.app/">LIVE DEMO</a>
+
+## Description
+This is a ReactJS based facebook clone built with adding posts with google authentication using firebase.
+
 ## Available Scripts
 
 In the project directory, you can run:
